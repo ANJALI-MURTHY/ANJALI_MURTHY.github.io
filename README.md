@@ -2,6 +2,7 @@
 
 ## Overview
 This repository contains the code for my personal resume website. It showcases my skills, experiences, projects, and contact information.
+Here is the link to my website - https://anjali-murthy.github.io/ANJALI_MURTHY.github.io/
 
 ## Features
 - About Me: A brief introduction about myself, including my skills and interests.
